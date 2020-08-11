@@ -77,6 +77,3 @@ This is what I aim to do with this post, a simple overview of all tools by Micro
 | [DAX](https://docs.microsoft.com/en-us/dax/)                                                | Data Analysis Expressions is a functional language used for calculations on SSAS. It is used in SSMS, Visual Studio, PowerBI Desktop and Excel.                                                                          |
 | [MDX](https://docs.microsoft.com/en-us/sql/mdx/)                                            | Multidimensional Expressions allows us to query multidimensional cubes on SSAS.                                                                                                                                          |
 
-
-
-Cover photo by [Kolar.io](https://unsplash.com/photos/lRoX0shwjUQ) on [Unsplash](https://unsplash.com)
